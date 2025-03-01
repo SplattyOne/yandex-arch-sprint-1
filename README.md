@@ -17,3 +17,7 @@
 
 ### Уровень 3. Настройка микрофронтов и маршрутизации.
 Не выполнялась.
+
+## Задание 2.
+Задание выполнено в файле arch_task2.drawio в корне проекта.
+[arch_task2.drawio](https://github.com/SplattyOne/yandex-arch-sprint-1/blob/mesto/arch_task2.drawio)
